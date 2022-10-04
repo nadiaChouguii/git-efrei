@@ -42,4 +42,4 @@
 |  branch | -M | Créer ou renommer une branche de travail |
 | git merge |    |  Fusionner 2 branches diff |
 
-modification du fichier
+modification du fichier pour l'exo 1 afin que je puisse tester mon projet git 
